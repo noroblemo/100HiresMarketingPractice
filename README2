@@ -14,7 +14,7 @@ WHAT I DID
 - Found out that the file wasn't updated to the REPO and debugged for a while.
 - Found out that the README file was located outside the project in the cursor code editor
 - Manually moved the file into the project and pushed again
-- Upon Success, I created another file and pushed it.
+- Upon Success, I created another file and pushed it
 
 TOOLS INSTALLED
 - Cursor IDE
