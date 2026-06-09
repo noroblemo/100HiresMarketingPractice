@@ -1,0 +1,26 @@
+I am Rajiv Harish. This is the first time I was doing intense coding(Bash commands).
+It was a big learning curve. There were muliple instances where I had to refer to Google and YouTube.
+ 
+Then i now have created another file called README2 to share my experience.
+
+WHAT I DID
+- Installed Cursor IDE from Safari
+- Opened Cursor Code edititor -> Extensions and installed Claude and Codex
+- Tried logging into Claude and found out that I need a Paid version
+- Then I created GitHub Account -> A new respository
+- Created a Personal Access Token from Devolpers tools in GitHub settings
+- Came back to cursor and created a project -> Connected GitHub REPO
+- Tested with a README file and pushed it to the REPO
+- Found out that the file wasn't updated to the REPO and debugged for a while.
+- Found out that the README file was located outside the project in the cursor code editor
+- Manually moved the file into the project and pushed again
+- Upon Success, I created another file and pushed it
+
+TOOLS INSTALLED
+- Cursor IDE
+- Claude 
+- Codex
+- Devoleper Tools 
+- GitHub
+- Respository
+- Personal Access Token (GitHub)
